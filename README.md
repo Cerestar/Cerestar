@@ -1,4 +1,4 @@
-# @Cerestar / Wave #
+# Cerestar / Wave #
 
 
 
